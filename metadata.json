@@ -1,0 +1,6 @@
+{
+  "name": "MemoSui",
+  "description": "Decentralized AI Memory Vault and secure indexing repository with Sui and Walrus Protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
