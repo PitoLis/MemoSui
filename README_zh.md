@@ -6,7 +6,7 @@
 
 > [English Version / 英文版本](README.md)
 
-**MemoSui** 是一个去中心化 AI 记忆保险库——由 Google Gemini AI 驱动，基于 Sui 区块链和 Walrus 协议保障安全的个人知识账本。
+**MemoSui** 是一个去中心化 AI 记忆保险库——由 AI 驱动，基于 Sui 区块链和 Walrus 协议保障安全的个人知识账本。
 
 写下你的想法、回忆或技术日志。MemoSui 的 AI 会总结并索引每一条记录，然后在 Sui 网络上提交不可篡改的指纹，同时将加密数据分片存储到 Walrus 去中心化存储节点。
 
