@@ -6,7 +6,7 @@
 
 > [中文版本 / Chinese Version](README_zh.md)
 
-**MemoSui** is a decentralized AI memory vault — a personal knowledge ledger powered by Google Gemini AI, secured on the Sui blockchain and Walrus Protocol.
+**MemoSui** is a decentralized AI memory vault — a personal knowledge ledger powered by AI, secured on the Sui blockchain and Walrus Protocol.
 
 Write your thoughts, memories, or technical logs. MemoSui's AI summarizes and indexes each entry, then commits an immutable fingerprint to the Sui network while sharding the encrypted payload across Walrus decentralized storage nodes.
 
