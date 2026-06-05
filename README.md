@@ -116,4 +116,4 @@ MemoSui integrates with the real MemWal SDK (`@mysten-incubation/memwal`) for li
 
 ## License
 
-Apache-2.0
+[Apache-2.0](LICENSE)

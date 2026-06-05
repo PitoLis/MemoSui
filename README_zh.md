@@ -116,4 +116,4 @@ MemoSui 集成了真实 MemWal SDK (`@mysten-incubation/memwal`) 用于连接 Wa
 
 ## 许可证
 
-Apache-2.0
+[Apache-2.0](LICENSE)
