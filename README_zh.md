@@ -1,7 +1,7 @@
 # MemoSui
 
 <p align="center">
-  <img src="LOGO.png" width="200" alt="MemoSui Logo" />
+  <img src="public/LOGO.png" width="200" alt="MemoSui Logo" />
 </p>
 
 > [English Version / 英文版本](README.md)

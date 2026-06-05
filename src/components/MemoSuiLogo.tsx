@@ -4,8 +4,6 @@
  */
 
 import React from "react";
-// @ts-ignore
-import logoUrl from "@/LOGO.png";
 
 interface MemoSuiLogoProps {
   className?: string;
@@ -15,7 +13,7 @@ interface MemoSuiLogoProps {
 export default function MemoSuiLogo({ className = "w-10 h-10", size }: MemoSuiLogoProps) {
   return (
     <img
-      src={logoUrl}
+      src="/LOGO.png"
       alt="MemoSui Logo"
       className={`${className} object-contain`}
       style={size ? { width: size, height: size } : undefined}
